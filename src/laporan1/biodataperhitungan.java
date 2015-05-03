@@ -13,7 +13,7 @@ public class biodataperhitungan {
 		System.out.println("Kelas   :E");
 		System.out.println("Jurusan :Teknik Informatika");
 		System.out.println("Asal    :Makassar");
-		System.out.println("Lahir   :di Ujung Pandang, 05 April 1994");
+		System.out.println("Lahir   :Catalonia, 05 April 1998");
 		System.out.println("Hobi    :Futsal");
 		//aritmatika
 		System.out.println(jumlah(2,2));
